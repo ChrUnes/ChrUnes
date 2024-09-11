@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently developing a full-stack streaming guide service.
+I am currently developing a full-stack streaming guide service. www.flixfav.com
 
 
 ## 🌐 Socials:
